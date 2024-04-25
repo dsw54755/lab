@@ -1,1 +1,0 @@
-echo "log*.txt" > .gitignore
