@@ -1,1 +1,0 @@
-echo "Dzisiejsza data: $(date)"
